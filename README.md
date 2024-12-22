@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Swift: forgetting to include argument labels when calling functions. The `bug.swift` file shows the erroneous code, while `bugSolution.swift` provides the corrected version.  Argument labels improve code readability and prevent ambiguity.  Always refer to the function definition to ensure correct usage.
